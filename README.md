@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GerardoMarti
-- 👀 I’m interested in  aprender  mucho sobre las tecnologías existentes y nuevas, que nos permiten desarrollar proyectos impresionantes para brindarle soluciones, brindando un producto finmal de calidad y de  valor.
-- 🌱 I’m currentl y  aprendiendo programación web y movil, con el objetivo de convtertirme en un full stack.
-- 💞️ I’m looking to collaborate  con ideas y herramientas que permitan a otros que también desean crecer en este maravilloso mundo de la programación.
+- 👀 I’m interested in  learn a lot about existing and new technologies, which allow us to develop impressive projects to provide you with solutions, providing a final product of quality and value.
+- 🌱 I’m currently learning web and mobile programming, with the aim of becoming a full stack.
+- 💞️ I’m looking to collaborate with ideas and tools that allow others who also want to grow in this wonderful world of programming.
 - 📫 How to reach me -   📧 gdesignspty@gmail.com
 
 
